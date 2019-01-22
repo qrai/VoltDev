@@ -1,0 +1,25 @@
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\VoltDev.exe.config
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\VoltDev.exe
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\VoltDev.pdb
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\FastColoredTextBox.dll
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.Form1.resources
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.Properties.Resources.resources
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.csproj.CopyComplete
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.exe
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.pdb
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\VX Library.dll
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\OpenTK.GLControl.dll
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\OpenTK.dll
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\FlatTabControl.dll
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\VoltLib.dll
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\netstandard.dll
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\VX Library.pdb
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\OpenTK.GLControl.xml
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\OpenTK.pdb
+C:\Users\serge\source\repos\VoltEngine\VoltDev\bin\Debug\OpenTK.xml
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.CodeMarket.resources
+C:\Users\serge\source\repos\VoltEngine\VoltDev\obj\Debug\VoltDev.ErrorsList.resources

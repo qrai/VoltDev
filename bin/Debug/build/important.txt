@@ -1,0 +1,5 @@
+Dont Delete Build/Builded Folders,
+Dont Delete Any File in Builded Folder,
+If you want get your builded application,just copy and
+paste it to your clear folder.
+If you want to open your application,run .exe file in builded files.

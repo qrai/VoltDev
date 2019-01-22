@@ -1,0 +1,8 @@
+function newLabel
+    new object:label(labelName)
+end
+
+function main
+    newLabel()
+    labelName.text = "hello"
+end
