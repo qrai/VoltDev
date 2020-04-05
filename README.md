@@ -1,5 +1,7 @@
 # VoltDev
-![alt text](https://raw.githubusercontent.com/qrai/VoltDev/master/img/vx.png)
-Volt Dev is IDE to develop applications with VX.Isnt finished
+![Screenshoot](https://github.com/qrai/VoltDev/blob/master/img/vx.PNG?raw=true)
+Volt Dev is IDE to develop applications with VX.
+
+VX Programming Language isn't finished and not recommended for use.
 # Creator
 Created by Volt Team
