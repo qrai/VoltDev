@@ -4,4 +4,4 @@ Volt Dev is IDE to develop applications with VX.
 
 VX Programming Language isn't finished and not recommended for use.
 # Creator
-Created by Volt Team
+Created by qrai
